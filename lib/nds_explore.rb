@@ -18,5 +18,5 @@ def print_first_directors_movie_titles
     movies_ar_index += 1 
   end 
 end
-  
+  print_first_directors_movie_titles
 end
